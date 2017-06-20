@@ -1,0 +1,37 @@
+﻿
+
+
+.intro-header {
+    background-image: url('../img/shutterstock_230245711.jpg');
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+.navbar-right {
+    font-size: xx-large;
+}
+
+.navbar-default {
+    background-color: darkred;
+    border-color: #E7E7E7;
+}
+
+/*search btn*/
+
+.intro-header .post-heading .subheading {
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    margin: 10px 0 30px;
+    font-weight: 600;
+}
+
+.intro-header .post-heading .meta {
+    font-family: 'Lato', 'Times New Roman', serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+/*search style*/
+
